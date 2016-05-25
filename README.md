@@ -1,6 +1,6 @@
 # optimal-quadratic-averaging
 A Matlab implementation of the optimal quadratic averaging algorithm.
-The accompanying paper can be found at (http://arxiv.org/abs/1604.06543).
+The accompanying paper can be found at http://arxiv.org/abs/1604.06543.
 
 ## File descriptions:
 
